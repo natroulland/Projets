@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Minecraft';
+    src: url("C:/Users/natna/Downloads/minecraft/minecraft_font.ttf") format('ttf');
+}
+
+body {
+    font-family: 'Minecraft';
+}
+
+
+h1 {
+    font-family: 'Minecraft';
+}
